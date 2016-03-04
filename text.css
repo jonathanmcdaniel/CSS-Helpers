@@ -1,0 +1,34 @@
+/*----------------------------------------------------------------------------*/
+/* Colors */
+/*----------------------------------------------------------------------------*/
+.white-text {
+  color: #FFFFFF;
+}
+.black-text {
+  color: #000000;
+}
+.light-grey-text {
+  color: #CCCCCC;
+}
+.dark-grey-text {
+  color: #333333;
+}
+
+/*----------------------------------------------------------------------------*/
+/* Properties */
+/*----------------------------------------------------------------------------*/
+.bold-text {
+  font-weight: bold;
+}
+.italic-text {
+  font-style: italic;
+}
+.underlined-text {
+  text-decoration: underline;
+}
+.overline-text {
+  text-decoration: overline;
+}
+.strikethrough-text {
+  text-decoration: line-through;
+}
